@@ -7,20 +7,23 @@ from life import Creativity
 class Life(Creativity):
     def __init_life__(self):
         self.current_job_title = "___"
-        self.open_for_opportunity = False
+        self.open_for_opportunity = True
 
     def current_projects(self):
-        self.currently_learning = "Flutter 📚"
-        self.currently_working_on = "Dart 🌱"
-        self.excited_for = "Excited to launch my first Flutter app soon! 🌎"
+        self.currently_learning = "MERN Stack & Android 📚"
+        self.currently_working_on = "Flutter 🌱"
+        self.excited_for = "Internt of Things 🌎"
     
     def contact_me(self):
-        self.email = "misbahhaque@yahoo.com"
+        self.email = "gauravpandey495@gmail.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
  
 
 - ⚡ Fun fact **Did you know that octopuses have three hearts?**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
