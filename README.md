@@ -22,7 +22,6 @@ if '__repo__' == '__helpful__':
     fork.it()
 
 
-
 - ⚡ Fun fact **Did you know that octopuses have three hearts?**
 
 <h3 align="left">Connect with me:</h3>
