@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 
 
