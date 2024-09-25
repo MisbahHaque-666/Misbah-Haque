@@ -2,8 +2,7 @@
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 
-                      <!-- HTML -->
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
