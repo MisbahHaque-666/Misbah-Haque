@@ -17,10 +17,6 @@ class Life(Creativity):
     def contact_me(self):
         self.email = "misbahhaque@yahoo.com"
  
-if '__repo__' == '__helpful__':
-    star.it()
-    fork.it()
-
 
 - ⚡ Fun fact **Did you know that octopuses have three hearts?**
 
