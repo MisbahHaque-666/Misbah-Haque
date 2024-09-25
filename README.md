@@ -1,9 +1,27 @@
 <h1 align="center">Hi 👋, I'm Misbah Haque</h1>
 <h3 align="center">A passionate developer from Pakistan</h3>
 
-- 📫 How to reach me **misbahhaque@yahoo.com**
 
-- 📄 Know about my experiences [[]]([])
+from life import Creativity
+
+class Life(Creativity):
+    def __init_life__(self):
+        self.current_job_title = "___"
+        self.open_for_opportunity = False
+
+    def current_projects(self):
+        self.currently_learning = "Flutter 📚"
+        self.currently_working_on = "Dart 🌱"
+        self.excited_for = "Excited to launch my first Flutter app soon! 🌎"
+    
+    def contact_me(self):
+        self.email = "misbahhaque@yahoo.com"
+ 
+if '__repo__' == '__helpful__':
+    star.it()
+    fork.it()
+
+
 
 - ⚡ Fun fact **Did you know that octopuses have three hearts?**
 
