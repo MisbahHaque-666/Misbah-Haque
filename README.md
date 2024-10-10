@@ -5,9 +5,7 @@
 - 🌱 I’m currently learning **Flutter and mobile app development**
 - 👯 I’m looking to collaborate on **open-source projects** and **Flutter applications**
 - 🤝 I’m open to working on **backend technologies** and **cloud-based projects**
-- 📝 I regularly write about **coding tips and tutorials** on my blog (Add blog link if you have one)
 - 💬 Ask me about **Dart, Python, and problem-solving in backend development*
-- ⚡ Fun fact **Did you know that octopuses have three hearts?**
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
